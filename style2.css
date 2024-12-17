@@ -98,6 +98,7 @@ a {
     height: 80px;
     background: linear-gradient(rgb(0, 0, 0), rgb(39, 35, 3));
     text-align: start;
+    border: 1px black solid
 
 }
 
